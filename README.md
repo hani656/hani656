@@ -1,7 +1,7 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
-  <a href="https://blog.wudl.cn/">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=热爱生活.;console.log(%22Hello%EF%BC%8Cworld%22)">
+  <a href="https://lh88.top/">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=热爱工作，享受生活.;console.log(%22Hello%EF%BC%8Cworld%22)">
   </a>
 </h1>
 
@@ -93,9 +93,53 @@
 <div align="center"><img src="https://cdn.cbd.int/anzhiyu-assets@1.0.11/image/common/github-info/personal-homepage-banner.jpg" /></div>
 
 
-### Github 活跃度
+<br>
 
-[![](https://activity-graph.herokuapp.com/graph?username=hani656&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![hani656's github stats](https://github-readme-stats.vercel.app/api?username=hani656&show_icons=true&theme=vue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hani656&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hani656&layout=compact&langs_count=6)
+<!-- GitHub奖杯🏆 -->
+<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=anzhiyu-c&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
+<br>
+
+<!-- GitHub数据统计 -->
+<div align="center">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=anzhiyu-c&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anzhiyu-c&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</div>
+
+<!-- wakatime 统计 -->
+<table align="center">
+<tr>
+<td valign="top">
+
+<!--START_SECTION:waka-->
+
+```txt
+From: 15 March 2024 - To: 14 April 2024
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
+
+</tr>
+</table>
+
+<!-- GitHub Activity Graph -->
+<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=anzhiyu-c&theme=xcode" /></div>
+
+# 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+
+<!-- plugin metrics -->
+<div align="center">
+  <img src="https://cdn.cbd.int/anzhiyu-assets/image/common/github-info/rocket-banner.jpg"/>
+</div>
+
+# 🤝 Social
+
+<!-- BiliBili和CSDN数据 -->
+<div align="center">
+  <a href="https://space.bilibili.com/334861891"><img src="https://stats.justsong.cn/api/bilibili/?id=334861891"/></a>
+  <a href="https://blog.csdn.net/weixin_60814248"><img src="https://stats.justsong.cn/api/csdn?id=weixin_60814248"/></a>
+</div>
+
