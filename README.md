@@ -21,9 +21,9 @@
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 
--   <a href="https://blog.wudl.cn"><code><img height="20" width="57" src="./images/blog.png"></code></a>：个人博客，记录学习经历！
--   <a href="https://space.bilibili.com/194984444"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>：欢迎访问我的b站！
--   <a href="https://wudl.cn"><code><img height="19" width="43" src="./images/index.png"></code></a>：首页！
+-   <a href="https://lh88.top"><code><img height="20" width="57" src="./images/blog.png"></code></a>：个人博客，记录学习经历！
+-   <a href="https://space.bilibili.com/334861891"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>：欢迎访问我的b站！
+-   <a href="https://blog.lh88.top"><code><img height="19" width="43" src="./images/index.png"></code></a>：首页！
 
 ### **技术栈:**
 
