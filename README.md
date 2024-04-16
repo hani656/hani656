@@ -121,12 +121,9 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-
 </tr>
 </table>
 
-<!-- GitHub Activity Graph -->
-<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=anzhiyu-c&theme=xcode" /></div>
 
 # 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 
