@@ -92,6 +92,14 @@
 
 <div align="center"><img src="https://cdn.cbd.int/anzhiyu-assets@1.0.11/image/common/github-info/personal-homepage-banner.jpg" /></div>
 
+# 🚀 Action
+
+<!-- 连续提交代码天数记录 -->
+<p align="center">
+  <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/left-wing.png" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=hani656&theme=dark&hide_border=%E9%94%99%E8%AF%AF%E7%9A%84&locale=zh_Hans&date_format=%5BY.%5Dn.j&mode=weekly" />
+  <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/right-wing.png" />
+</p>
 
 <br>
 
