@@ -1,3 +1,6 @@
+$$
+\int_{born}^{die}f(you*me)dx = love
+$$
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://lh88.top/">
