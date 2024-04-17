@@ -1,10 +1,7 @@
 $$
 \int_{born}^{die}f(you*me)dx = love
 $$
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=热爱工作，享受生活.;console.log(
-  $$
-\int_{born}^{die}f(you*me)dx = love
-$$)">
+
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://lh88.top/">
